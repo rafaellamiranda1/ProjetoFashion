@@ -4,19 +4,26 @@
 
 body{
     background-color: white;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h2{
     text-align: center;
+    font-weight: bolder;
+    padding-top: 40px;
+}
+
+p{
+    text-align: center;
+    color: grey;
+    font-weight:100;
 }
 
 .logo-site{
-    padding: 100;
+    padding: 5px 5px;
+    float: left;
 
 }
-
-
 
 .cabecalho{
     background-color: #003d52;
@@ -52,8 +59,15 @@ h2{
 
 }
 
-.ImagemTopo{
+#ImagemTopo{
     padding: 0 0;
     margin: 10px 250px;
 }
+
+.modelos{
+    padding: 30px 300px 50px 330px;
+}
+
+
+
 
