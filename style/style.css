@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+.menu-lista{
+    margin: 20px 0 0;
+    padding: 0;
+    list-style:none;
+    text-align: center;
+}
+
+.menu-lista li{
+    display: inline;
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+
+.menu-link{
+    display: inline-block;
+    padding: 8px 12px;
+}
+
+.cabecalho{
+    background-color: rgb(9, 30, 57);
+    margin: 2px 0;
+}
+
+.imagem-topo{
+    
+
+}
