@@ -13,8 +13,19 @@ h2{
     padding-top: 40px;
 }
 
-p{
+h3{
+    letter-spacing: 10%;
+
+}
+
+.inicio{
     text-align: center;
+    color: grey;
+    font-weight:100;
+}
+
+.caracteristica01{
+    text-align: left;
     color: grey;
     font-weight:100;
 }
@@ -64,9 +75,21 @@ p{
     margin: 10px 250px;
 }
 
-.modelos{
-    padding: 30px 300px 50px 330px;
+.modelo01{
+    padding: 40px 200px;
 }
+
+.modelo02{
+    padding: 0px 600px 0px 600px;
+}
+
+.fundo{
+    width: 40%;
+    padding: 40px 0;
+    margin: 10px 500px;
+}
+
+
 
 
 
